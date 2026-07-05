@@ -5,3 +5,6 @@ CaMuR is an elaborately designed computational framework built to tackle the cha
 ![Graphical Abstract](Graphical%20Abstract.png)
 
 Paper: CaMuR: Context-Aware Multimodal Routing for Gene Regulatory Network Inference, B Zhang, D Yao, X Zhan, W Wang, and Bo Zhang
+
+# Environment setup and code compilation
+## Download the package
