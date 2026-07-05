@@ -8,3 +8,6 @@ Paper: CaMuR: Context-Aware Multimodal Routing for Gene Regulatory Network Infer
 
 # Environment setup and code compilation
 ## Download the package
+```bash
+git clone [https://github.com/bingbing0205/CaMuR.git](https://github.com/bingbing0205/CaMuR.git)
+cd CaMuR
