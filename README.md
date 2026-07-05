@@ -19,3 +19,8 @@ conda create -n CaMuR python=3.9 -y
 conda activate CaMuR
 pip install -r requirements.txt
 ```
+## Running Code
+```bash
+python main.py
+```
+
